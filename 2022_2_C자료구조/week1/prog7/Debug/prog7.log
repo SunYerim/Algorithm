@@ -1,0 +1,3 @@
+﻿  prog7.cpp
+C:\Users\Samsung\Desktop\2022 2\data_structure\prog7\prog7.cpp(25,8): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+  prog7.vcxproj -> C:\Users\Samsung\Desktop\2022 2\data_structure\prog7\Debug\prog7.exe

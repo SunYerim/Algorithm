@@ -1,0 +1,3 @@
+﻿  prob3.c
+C:\Users\Samsung\Desktop\2022 2\data_structure\week2\prob3\prob3.c(15,8): warning C4101: 'dict_str' :참조되지 않은 지역 변수입니다.
+  prob3.vcxproj -> C:\Users\Samsung\Desktop\2022 2\data_structure\week2\prob3\Debug\prob3.exe

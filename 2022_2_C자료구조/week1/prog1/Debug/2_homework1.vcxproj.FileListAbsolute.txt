@@ -1,0 +1,4 @@
+C:\Users\Samsung\Desktop\Algorithm\2_homework1\Debug\2_homework1.exe
+C:\Users\Samsung\Desktop\Algorithm\2_homework1\Debug\2_homework1.pdb
+C:\Users\Samsung\Desktop\2022 2\data_structure\prog1\Debug\2_homework1.exe
+C:\Users\Samsung\Desktop\2022 2\data_structure\prog1\Debug\2_homework1.pdb

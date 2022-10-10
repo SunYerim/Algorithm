@@ -1,0 +1,7 @@
+﻿  prob2.c
+C:\Users\Samsung\Desktop\2022 2\data_structure\week3\prob2\prob2.c(11,11): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+C:\Users\Samsung\Desktop\2022 2\data_structure\week3\prob2\prob2.c(49,6): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\Samsung\Desktop\2022 2\data_structure\week3\prob2\prob2.c(49,6): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\Samsung\Desktop\2022 2\data_structure\week3\prob2\prob2.c(53,3): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\Samsung\Desktop\2022 2\data_structure\week3\prob2\prob2.c(53,3): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  prob2.vcxproj -> C:\Users\Samsung\Desktop\2022 2\data_structure\week3\prob2\Debug\prob2.exe
