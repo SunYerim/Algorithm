@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Samsung/Desktop/2022 2/Music Library Program/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\MusicLibraryProgram.dir\\code.cpp.obj -c \"C:\\Users\\Samsung\\Desktop\\2022 2\\Music Library Program\\code.cpp\"",
+  "file": "C:/Users/Samsung/Desktop/2022 2/Music Library Program/code.cpp"
+},
+{
+  "directory": "C:/Users/Samsung/Desktop/2022 2/Music Library Program/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\MusicLibraryProgram.dir\\library.cpp.obj -c \"C:\\Users\\Samsung\\Desktop\\2022 2\\Music Library Program\\library.cpp\"",
+  "file": "C:/Users/Samsung/Desktop/2022 2/Music Library Program/library.cpp"
+},
+{
+  "directory": "C:/Users/Samsung/Desktop/2022 2/Music Library Program/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\MusicLibraryProgram.dir\\string_tools.cpp.obj -c \"C:\\Users\\Samsung\\Desktop\\2022 2\\Music Library Program\\string_tools.cpp\"",
+  "file": "C:/Users/Samsung/Desktop/2022 2/Music Library Program/string_tools.cpp"
+}
+]
