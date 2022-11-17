@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Samsung/Desktop/2022 2/Maze/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\MazeRoute.dir\\main.cpp.obj -c \"C:\\Users\\Samsung\\Desktop\\2022 2\\Maze\\main.cpp\"",
+  "file": "C:/Users/Samsung/Desktop/2022 2/Maze/main.cpp"
+},
+{
+  "directory": "C:/Users/Samsung/Desktop/2022 2/Maze/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\MazeRoute.dir\\pos.cpp.obj -c \"C:\\Users\\Samsung\\Desktop\\2022 2\\Maze\\pos.cpp\"",
+  "file": "C:/Users/Samsung/Desktop/2022 2/Maze/pos.cpp"
+},
+{
+  "directory": "C:/Users/Samsung/Desktop/2022 2/Maze/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\MazeRoute.dir\\stack.cpp.obj -c \"C:\\Users\\Samsung\\Desktop\\2022 2\\Maze\\stack.cpp\"",
+  "file": "C:/Users/Samsung/Desktop/2022 2/Maze/stack.cpp"
+}
+]
