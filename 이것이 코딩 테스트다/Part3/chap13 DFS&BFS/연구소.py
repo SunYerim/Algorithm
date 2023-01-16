@@ -5,9 +5,10 @@
 
 n, m = map(int, input().split())
 # 초기맵
-initial = [list(map(int, input().split())) for _ in range(m)] 
+initial = [list(map(int, input().split())) for _ in range(n)] 
 #벽을 설치한 뒤
 final = []
+result=0 # 출력값 반환
 
 # 방향에 대한 리스트
 dx = [1, -1, 0, 0]
@@ -37,8 +38,7 @@ def DFS(count):
         for i in range(n):
             for j in range(m):
                 final[i][j] = initial[i][j]
-                # tmp[i].append(lab[i][j])
-
+                
         for i in range(n):
             for j in range(m):
                 if final[i][j]==2:
@@ -54,6 +54,6 @@ def DFS(count):
                     DFS(count)
                     initial[i][j]=0
                     count-=1
-result=0
+
 DFS(0)
 print(result)

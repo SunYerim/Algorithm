@@ -10,7 +10,7 @@ num_list = list(map(int, input().split()))
 # 연산자
 op = list(map(int, input().split()))
 
-# 최솟값 최댓값 초기화 !
+# 최솟값 최댓값 초기화 
 max_num = -1e9
 min_num = 1e9
 
