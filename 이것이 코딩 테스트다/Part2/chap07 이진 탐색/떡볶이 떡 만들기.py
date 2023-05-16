@@ -5,9 +5,11 @@ rice.sort()
 
 # 시작점과 끝점 설정
 start = 0
-end = max(rice)
+end = rice[-1]
 
+# 정답 변수
 result = 0
+
 # 이진 탐색으로
 while (start <= end):
     total = 0
